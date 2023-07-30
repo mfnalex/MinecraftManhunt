@@ -49,3 +49,10 @@ spectatorRoleId: "XXXXX"
 
 # Please do not touch the value below!
 uuid: ""
+
+# *********
+# * SONGS *
+# *********
+songs:
+  intro: "https://www.youtube.com/watch?v=lDjfRqkUlN4"
+  pirates: "https://www.youtube.com/watch?v=27mB8verLK8"
